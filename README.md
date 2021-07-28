@@ -1,1 +1,1 @@
-https://github.com/MainHackScripts/NitroHubObfuscation/files/6889591/Loadstring.Obfuscation.txt
+loadstring(game:HttpGet("https://github.com/MainHackScripts/NitroHubObfuscation/files/6889591/Loadstring.Obfuscation.txt"))()
